@@ -1,0 +1,2 @@
+let projects = []
+let projectsFiltered = []
